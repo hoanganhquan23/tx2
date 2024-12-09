@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\demo_tx2\demo_tx2\bin\Debug\demo_tx2.exe.config
+C:\Users\DELL\source\repos\demo_tx2\demo_tx2\bin\Debug\demo_tx2.exe
+C:\Users\DELL\source\repos\demo_tx2\demo_tx2\bin\Debug\demo_tx2.pdb
+C:\Users\DELL\source\repos\demo_tx2\demo_tx2\obj\Debug\demo_tx2.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\demo_tx2\demo_tx2\obj\Debug\demo_tx2.Form1.resources
+C:\Users\DELL\source\repos\demo_tx2\demo_tx2\obj\Debug\demo_tx2.Properties.Resources.resources
+C:\Users\DELL\source\repos\demo_tx2\demo_tx2\obj\Debug\demo_tx2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\demo_tx2\demo_tx2\obj\Debug\demo_tx2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\demo_tx2\demo_tx2\obj\Debug\demo_tx2.exe
+C:\Users\DELL\source\repos\demo_tx2\demo_tx2\obj\Debug\demo_tx2.pdb

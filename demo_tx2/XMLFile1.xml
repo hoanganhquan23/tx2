@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ds>
+	<nhanvien manv="nv01">
+		<hoten>Tran Van hung</hoten>
+		<diachi> 27 Hang Bai, Ha Noi</diachi>
+	</nhanvien>
+	<nhanvien manv="nv02">
+		<hoten>Le Thu Ha</hoten>
+		<diachi> 236A Ba Trieu, Ha Noi</diachi>
+	</nhanvien>
+</ds>
